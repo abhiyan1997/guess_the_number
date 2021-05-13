@@ -23,3 +23,4 @@ while(guesses<=9):
 
 if guesses>9:
     print("Game Over!!!")
+    print(f"The number was{random_no}")
