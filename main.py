@@ -13,7 +13,6 @@ while(guesses<=9):
     elif random_no>input1:
         print("Please guess greater no.")
 
-
     else:
         print(f"Congrats You Have Guessed the right no in {guesses} guesses")
         break
